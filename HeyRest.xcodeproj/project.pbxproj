@@ -13,6 +13,7 @@
 		B5B5F3832595BCCE00587575 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5B5F3822595BCCE00587575 /* Assets.xcassets */; };
 		B5B5F3862595BCCE00587575 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5B5F3852595BCCE00587575 /* Preview Assets.xcassets */; };
 		B5B5F3892595BCCE00587575 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5B5F3872595BCCE00587575 /* LaunchScreen.storyboard */; };
+		B5B5F3922596905400587575 /* HeyRest 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B5B5F3912596905400587575 /* HeyRest 1.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B5B5F3852595BCCE00587575 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B5B5F3882595BCCE00587575 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5B5F38A2595BCCE00587575 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5B5F3912596905400587575 /* HeyRest 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "HeyRest 1.mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				B5B5F3822595BCCE00587575 /* Assets.xcassets */,
 				B5B5F3872595BCCE00587575 /* LaunchScreen.storyboard */,
 				B5B5F38A2595BCCE00587575 /* Info.plist */,
+				B5B5F3912596905400587575 /* HeyRest 1.mlmodel */,
 				B5B5F3842595BCCE00587575 /* Preview Content */,
 			);
 			path = HeyRest;
@@ -147,6 +150,7 @@
 			files = (
 				B5B5F37D2595BCCE00587575 /* AppDelegate.swift in Sources */,
 				B5B5F37F2595BCCE00587575 /* SceneDelegate.swift in Sources */,
+				B5B5F3922596905400587575 /* HeyRest 1.mlmodel in Sources */,
 				B5B5F3812595BCCE00587575 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
